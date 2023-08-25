@@ -10,6 +10,11 @@ body {
   font-size: 2rem;
 }
 
+.container {
+  margin: 1rem;
+  text-align: center;
+}
+
 .nav {
   background-color: #333;
   color: white;
